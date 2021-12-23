@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Joyce Wambui or @prehistoricpancake on the internet
 - :computer: I am currently a Software Engineer at [Safaricom](https://www.safaricom.co.ke)
-- 👀 Due to my curious nature, it has become my life's mission to become a [Renaissance Woman](renfemina.com).
+- 👀 Due to my curious nature, it has become my life's mission to become a [Renaissance Woman](https://www.renfemina.com/).
 - 🌱 I’m currently learning Machine Learning and documenting it [here](https://themachinelearner.substack.com).
 - 📫 You can reach me through my email jwambui@protonmail.com
 - :books: I'm currently reading [12 Rules For Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) and [Tender is The Night](https://www.amazon.com/Tender-Night-F-Scott-Fitzgerald/dp/0684830507)
